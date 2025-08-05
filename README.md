@@ -55,7 +55,7 @@ Guess_The_Number_Game/
 
 ## 📷 Screenshots
 
-![Game Start](images/img1.png) | ![Game Hints](images/img2.png)
+![Game Start](images/screenshot1.png) | ![Game Hints](images/screenshot2.png)
 
 ---
 
