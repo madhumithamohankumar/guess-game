@@ -57,8 +57,7 @@ Guess_The_Number_Game/
 
 | Game Start Screen                         | Game in Progress with Hints                  |
 |--------------------------------------------|-----------------------------------------------|
-| ![Game Start](images/screenshot1.png "Game Start") | ![Game Hints](images/screenshot2.png "Game with Hints") |
-
+| ![Game Start](images/screenshot1.png)      | ![Game Hints](images/screenshot2.png)        |
 
 ---
 
